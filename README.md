@@ -33,7 +33,7 @@ pablo = {
 
 ##  Tech Stack & Arsenal
 
-*Mi arsenal para circuitos cuánticos, simulaciones y optimización:*
+*My arsenal for quantum circuits, simulations, and optimization:*
 
 <div align="center">
 
@@ -86,6 +86,17 @@ pablo = {
 | **Neural Network Modeling** | Modelado de datos con redes neuronales profundas | TensorFlow, Keras |
 | **Applied Math Modeling** | Traducción de problemas teóricos a soluciones computacionales | Python, LaTeX |
 
+---
+
+| Project | Description | Stack |
+|---|---|---|
+| **Quantum ML — Hadronic Physics** | VQCs for predicting vector meson masses. χ² ≈ 1.08, R² = 0.99994 over 10 mesons | PennyLane, SciPy, NumPy |
+| **Numerical Simulation** | Algorithms for solving physics problems with numerical methods | NumPy, SciPy, Matplotlib |
+| **Neural Network Modeling** | Data modeling with deep neural networks | TensorFlow, Keras |
+| **Applied Math Modeling** | Translating theoretical problems into computational solutions | Python, LaTeX |
+
+---
+
 > *⚛️ Level up with my [repos](https://github.com/CuervoBlanco05)!*
 
 ---
@@ -103,7 +114,7 @@ pablo = {
 
 ##  Let's Team Up!
 
-*¿Quieres colaborar en física cuántica, ML o Python? ¡Escríbeme!*
+*Want to collaborate on quantum physics, ML, AI, or Python? Write to me!*
 
 <div align="center">
 
