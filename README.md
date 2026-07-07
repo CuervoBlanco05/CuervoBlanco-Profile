@@ -10,13 +10,13 @@
 
 ---
 
-## 🧬 `$ whoami`
+##  `$ whoami`
 
 ```python
 pablo = {
     "name"      : "Pablo Adrián Cárdenas Mendívil",
     "alias"     : "CuervoBlanco",
-    "degree"    : ["M.Sc. Physics @ UAS 🎓", "B.S. Civil Engineering @ UAS 🏗️"],
+    "degree"    : ["M.Sc. Physics @ UAS", "B.S. Civil Engineering @ UAS"],
     "research"  : "Quantum ML applied to hadronic physics",
     "stack"     : ["PennyLane", "Python", "TensorFlow", "SciPy", "LaTeX"],
     "thesis"    : {
@@ -25,7 +25,7 @@ pablo = {
         "results"   : {"chi2": 1.08, "R2": 0.99994, "mesons": 10}
     },
     "status"    : " Flow State — optimizing χ² and meson masses simultaneously",
-    "fun_fact"  : "I debug quantum circuits AND structural beams 🌉⚛️",
+    "fun_fact"  : "I debug quantum circuits AND structural beams",
 }
 ```
 
@@ -79,7 +79,7 @@ pablo = {
 
 ## Epic Projects & Quests
 
-| 🔬 Proyecto | 📝 Descripción | 🛠️ Stack |
+| Proyecto | Descripción | Stack |
 |---|---|---|
 | **Quantum ML — Hadronic Physics** | VQCs para predecir masas de mesones vectoriales. χ² ≈ 1.08, R² = 0.99994 sobre 10 mesones | PennyLane, SciPy, NumPy |
 | **Numerical Simulation** | Algoritmos para resolución de problemas físicos con métodos numéricos | NumPy, SciPy, Matplotlib |
