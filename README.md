@@ -24,14 +24,14 @@ pablo = {
         "framework" : "Bethe-Salpeter / Contact Interaction",
         "results"   : {"chi2": 1.08, "R2": 0.99994, "mesons": 10}
     },
-    "status"    : "⚡ Flow State — optimizing χ² and meson masses simultaneously",
+    "status"    : " Flow State — optimizing χ² and meson masses simultaneously",
     "fun_fact"  : "I debug quantum circuits AND structural beams 🌉⚛️",
 }
 ```
 
 ---
 
-## 🚀 Tech Stack & Arsenal
+##  Tech Stack & Arsenal
 
 *Mi arsenal para circuitos cuánticos, simulaciones y optimización:*
 
@@ -64,30 +64,20 @@ pablo = {
 
 ---
 
-## 📊 GitHub Stats & Grind
+## GitHub Stats & Grind
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CuervoBlanco05&theme=tokyonight&hide_border=true" height="180em"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CuervoBlanco05&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=CuervoBlanco05&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
 ---
 
-## ⚡ Epic Projects & Quests
+## Epic Projects & Quests
 
 | 🔬 Proyecto | 📝 Descripción | 🛠️ Stack |
 |---|---|---|
@@ -100,7 +90,7 @@ pablo = {
 
 ---
 
-## 🎯 Mission & Endgame
+##  Mission & Endgame
 
 ```
 🔭  Grinding Now  →  M.Sc. thesis: Quantum ML × non-perturbative QCD
@@ -111,7 +101,7 @@ pablo = {
 
 ---
 
-## 🤝 Let's Team Up!
+##  Let's Team Up!
 
 *¿Quieres colaborar en física cuántica, ML o Python? ¡Escríbeme!*
 
