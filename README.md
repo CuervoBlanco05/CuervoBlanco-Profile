@@ -70,6 +70,7 @@ pablo = {
     
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
 
 <img src="https://streak-stats.demolab.com?user=CuervoBlanco05&theme=tokyonight&hide_border=true" height="180em"/>
 
