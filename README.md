@@ -17,15 +17,15 @@ pablo = {
     "name"      : "Pablo Adrián Cárdenas Mendívil",
     "alias"     : "CuervoBlanco",
     "degree"    : ["M.Sc. Physics @ UAS", "B.S. Civil Engineering @ UAS"],
-    "research"  : "Quantum ML applied to hadronic physics",
-    "stack"     : ["PennyLane", "Python", "TensorFlow", "SciPy", "LaTeX"],
+    "research"  : "Quantum ML applied to hadronic physics & Credit Risk Analytics",
+    "stack"     : ["PennyLane", "Python", "TensorFlow", "Polars", "SciPy", "LaTeX"],
     "thesis"    : {
         "topic"     : "VQC for vector meson mass prediction",
         "framework" : "Bethe-Salpeter / Contact Interaction",
         "results"   : {"chi2": 1.08, "R2": 0.99994, "mesons": 10}
     },
-    "status"    : " Flow State — optimizing χ² and meson masses simultaneously",
-    "fun_fact"  : "I debug quantum circuits AND structural beams",
+    "status"    : " Flow State — optimizing χ² and meson masses simultaneously", credit risk algorithms & data pipelines",
+    "fun_fact"  : "I debug quantum circuits, SQL queries AND structural beams",
 }
 ```
 
@@ -82,6 +82,8 @@ pablo = {
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| **Pipeline de ML de extremo a extremo** | Pipeline integral de riesgo crediticio y recuperación. Ingeniería de datos con Polars (multihilo) y modelado XAI mediante árboles de decisión | Polars, Scikit-Learn, Python 
+| **Analítica e ingeniería de datos** | Consultas SQL de nivel de producción para la limpieza de carteras de crédito, uso de CTE, funciones de ventana y KPI ejecutivos | PostgreSQL, Yellowbrick SQL
 | **Quantum ML — Hadronic Physics** | VQCs para predecir masas de mesones vectoriales. χ² ≈ 1.08, R² = 0.99994 sobre 10 mesones | PennyLane, SciPy, NumPy |
 | **Numerical Simulation** | Algoritmos para resolución de problemas físicos con métodos numéricos | NumPy, SciPy, Matplotlib |
 | **Neural Network Modeling** | Modelado de datos con redes neuronales profundas | TensorFlow, Keras |
@@ -91,6 +93,8 @@ pablo = {
 
 | Project | Description | Stack |
 |---|---|---|
+| **E2E ML Pipeline** | End-to-end credit risk & recovery pipeline. Multi-threaded Polars data engineering and Decision Tree XAI modeling | Polars, Scikit-Learn, Python
+| **Analytics & Data Engineering** | Production-grade SQL queries for credit portfolio cleaning, CTEs, window functions, and executive KPIs | PostgreSQL, Yellowbrick SQL
 | **Quantum ML — Hadronic Physics** | VQCs for predicting vector meson masses. χ² ≈ 1.08, R² = 0.99994 over 10 mesons | PennyLane, SciPy, NumPy |
 | **Numerical Simulation** | Algorithms for solving physics problems with numerical methods | NumPy, SciPy, Matplotlib |
 | **Neural Network Modeling** | Data modeling with deep neural networks | TensorFlow, Keras |
@@ -106,8 +110,8 @@ pablo = {
 
 ```
 🔭  Grinding Now  →  M.Sc. thesis: Quantum ML × non-perturbative QCD
-🌌  Ultimate Quest →  Bridge quantum computing and particle physics
-⚡  Side Quests   →  Data Science · MLOps · Responsible AI
+🌌  Ultimate Quest →  Bridge quantum computing, data engineering, financial analytics & particle physics
+⚡  Side Quests   →  Data Science · MLOps · Responsible AI · Credit Risk Modeling · High-Performance Data Processing (Polars)
 🏗️  Secret Skill  →  I also design bridges (Civil Engineer mode ON)
 ```
 
