@@ -76,11 +76,11 @@ pablo = {
 
 <div align="center">
 
-  <!-- Tarjeta de Estadísticas Generales (Usando proxy de anuraghazra / vercel alt) -->
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="CuervoBlanco05 GitHub Stats" />
+  <!-- Opción 1: GitHub Readme Stats usando una instancia espejo sin rate-limit -->
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+  <!-- Opción 2: Anurag Profile Details (Servicio alternativo súper estable) -->
+  <img height="180em" src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 
   <!-- Tarjeta de Racha (Streak Stats) -->
   <img height="180em" src="https://streak-stats.demolab.com?user=CuervoBlanco05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
