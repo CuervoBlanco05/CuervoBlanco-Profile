@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Se ejecuta automáticamente todos los días a medianoche
+  schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente cuando quieras
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,7 +13,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@v1.4.0
+      
+      <!-- Usamos @main para evitar conflictos de tag de versión -->
+      - uses: vn7n24fzkq/github-profile-summary-cards@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
