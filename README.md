@@ -42,6 +42,7 @@ pablo = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-Data_Engineering-CD2312?style=for-the-badge&logo=polars&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 Machine Learning & Deep Learning
@@ -53,12 +54,19 @@ pablo = {
 ### ⚛️ Quantum Computing
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logo=quantconnect&logoColor=white)
 
-### 🛠️ Tools & Others
+### 🛠️ Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 Business Intelligence & Technical Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel/Advanced VBA](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
@@ -67,12 +75,15 @@ pablo = {
 ## GitHub Stats & Grind
 
 <div align="center">
-    
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
 
-<img src="https://streak-stats.demolab.com?user=CuervoBlanco05&theme=tokyonight&hide_border=true" height="180em"/>
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuervoBlanco05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="CuervoBlanco05 GitHub Stats" />
+
+  <!-- Tarjeta de Lenguajes Más Usados (Excluyendo Jupyter Notebook si prefieres enfocarlo a código puro) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuervoBlanco05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+
+  <!-- Tarjeta de Racha (Streak Stats) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=CuervoBlanco05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
